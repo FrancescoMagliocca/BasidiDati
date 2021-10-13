@@ -1,0 +1,41 @@
+MODIFICHE PUNTO 1.3
+
+-Utenti della redazione->Redattori
+-Sala->cinema
+-Aggiungto(username)dopo "nome utente"
+-Collaborazione->lavoro
+-serie di caratteristiche->lista informazioni
+-indicazione->informazione
+-regia->regista
+-Qui->nella scheda
+-i film->la proiezione dei film
+-pagamento di un biglietto il cui prezzo indicato sul sito->prezzo del biglietto indicato sulla piattaforma
+-vanno in onda->trasmesse
+-canali tv->tv
+-i serial->le serie
+-anno messa in onda->anno trasmissione
+-visitatori del sito->utenti
+-previa registrazione->registrandosi
+-link "inserisci nei preferiti"-> "preferiti"
+-i contenuti salvati->i contenuti preferiti
+-possono essere rimossi dal database -> vengono cancellati
+-visitatore->utente
+------------------------------------------------------------------------------------------------------------------------
+PUNTO 1.4(schema E-R)
+-Contenuto->generalizzazione di film.....
+-Artista->generalizzazione di...
+-Scheda->generalizzazione di...
+-Piattaforma-> generalizzazione di....
+--------------------------------------------------------------------------------------
+PUNTO 2.1
+Volumi scelti arbitrariamente
+--------------------------------
+PUNTO 2.2
+Stessa cosa,abbiamo scelto poi 5 operazioni da analizzare
+----------------------
+PUNTO 3
+Siamo partiti crendo dei domini che specificassero ad esempio il valore di STELLE
+----------------
+PUNTO 3.2
+Nel primo inserimento di Redattore abbiamo per sbaglio fatto un errore di battitura
+
